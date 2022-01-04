@@ -24,5 +24,5 @@ Please find a detailed overview of this project <a href="https://christopher-ger
 
 
 ## Author
-<b>Christopher Gerling</b>
+<b>Christopher Gerling</b><br>
 2022
